@@ -2,9 +2,9 @@
 
 Your personal AI-powered trainer & nutritionist! Track calories, generate custom diet plans, and get personalized workout routines - all powered by Google's Gemini AI.
 
-![AI Calorie Tracker](./assets/calorieTracker.png)
-![Gym Diet Planner](./assets/GymDietPlan.png)
-![Workout Planner](./assets/workoutPlan.png)
+![AI Calorie Tracker](./src/assets/calorieTracker.png)
+![Gym Diet Planner](./src/assets/GymDietPlan.png)
+![Workout Planner](./src/assets/workoutPlan.png)
 
 ## ✨ Features
 
