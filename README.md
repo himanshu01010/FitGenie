@@ -2,6 +2,10 @@
 
 Your personal AI-powered trainer & nutritionist! Track calories, generate custom diet plans, and get personalized workout routines - all powered by Google's Gemini AI.
 
+![AI Calorie Tracker](./assets/calorieTracker.png)
+![Gym Diet Planner](./assets/GymDietPlan.png)
+![Workout Planner](./assets/workoutPlan.png)
+
 ## ✨ Features
 
 ### 🍽️ AI Calorie Tracker
@@ -35,8 +39,8 @@ Your personal AI-powered trainer & nutritionist! Track calories, generate custom
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-fitness-buddy.git
-cd ai-fitness-buddy
+git clone https://github.com/himanshu01010/FitGenie.git
+cd FitGenie
 ```
 
 2. Install dependencies:
